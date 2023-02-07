@@ -1,4 +1,3 @@
----
 profile: glinet_axt1800
 target: ipq807x
 subtarget: ipq60xx
